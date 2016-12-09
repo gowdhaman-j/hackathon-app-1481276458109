@@ -14,7 +14,7 @@
     ]
   },
   "customer": {
-    "dataSource": "Cloudant-DS-primary-us",
+    "dataSource": "Cloudant-DS-secondary-uk",
     "public": true
   }
 }
