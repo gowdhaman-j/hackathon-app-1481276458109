@@ -3,7 +3,7 @@ paths:
     post:
       tags:
         - customer
-      summary: Create a new instance of the model and persist it into the data source.
+      summary: Create a new instancee of the model and persist it into the data source.
       operationId: customer.create
       parameters:
         - name: data
