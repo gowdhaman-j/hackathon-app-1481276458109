@@ -1,0 +1,18 @@
+{
+  "Cloudant-DS-primary-us": {
+    "url": "https://8315a033-538f-4e21-91ca-898c0773284f-bluemix:e3b002d39c78ac787eb15b0e5134e063c47eb516392dc6c0dcf59b2b10166fde@8315a033-538f-4e21-91ca-898c0773284f-bluemix.cloudant.com",
+    "database": "customer",
+    "username": "8315a033-538f-4e21-91ca-898c0773284f-bluemix",
+    "password": "e3b002d39c78ac787eb15b0e5134e063c47eb516392dc6c0dcf59b2b10166fde",
+    "name": "Cloudant-DS-primary-us",
+    "connector": "cloudant"
+  },
+  "Cloudant-DS-secondary-uk": {
+    "url": "https://8315a033-538f-4e21-91ca-898c0773284f-bluemix:e3b002d39c78ac787eb15b0e5134e063c47eb516392dc6c0dcf59b2b10166fde@8315a033-538f-4e21-91ca-898c0773284f-bluemix.cloudant.com",
+    "database": "customer",
+    "username": "8315a033-538f-4e21-91ca-898c0773284f-bluemix",
+    "password": "e3b002d39c78ac787eb15b0e5134e063c47eb516392dc6c0dcf59b2b10166fde",
+    "name": "Cloudant-DS-secondary-uk",
+    "connector": "cloudant"
+  }
+}
